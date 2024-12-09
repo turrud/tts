@@ -2,8 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use App\Models\Formulir;
+use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
 
 class ViewFormulir extends Controller
 {
