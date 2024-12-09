@@ -5,7 +5,7 @@
                 "uuid": "da4d241f-32b0-4cf1-9211-2f7693038c03",
                 "id": 1,
                 "createdAt": "2024-12-10 00:51:57",
-                "updatedAt": "2024-12-10 02:03:48",
+                "updatedAt": "2024-12-10 02:03:57",
                 "settings": {
                     "cssFramework": "tailwind",
                     "uiStarterKit": "jetstream",
@@ -123,7 +123,7 @@
                 "filesQueueStatus": "idle",
                 "currentSchemaError": null,
                 "currentSchemaErrorStack": null,
-                "lastReadSchemaDataHash": "72b5f13cef4dd8e8ac424e06f93c2210",
+                "lastReadSchemaDataHash": "90a91ec29b4f3894ac84823067e234ef",
                 "currentRenderedFilesPaths": [
                     "/lang/en//navigation.php",
                     "/lang/en//crud.php",
