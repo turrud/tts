@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
         User::factory()->withPersonalTeam()->create([
             'name' => 'Admin',
             'email' => 'admin@pelosoknusantara.com',
-            'password' => Hash::make('password'),
+            'password' => Hash::make('dananjaya123'),
         ]);
     }
 }
